@@ -28,4 +28,5 @@ feedback the pressure that felt by the gripper on the haptic device.
 
 ### Blogs & Video
 [Link to blogs](http://shuhuihefyp.blogspot.co.uk/)
+
 [Link to demo video](https://youtu.be/Em33JU7nFUo)
